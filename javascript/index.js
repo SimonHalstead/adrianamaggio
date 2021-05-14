@@ -1,1 +1,2 @@
-document.getElementById('date').innerHTML = new Date().toDateString().toLocaleString('en-GB'),
+var event = new Date();
+console.log(event.toLocaleString('en-GB', { timeZone: 'Europe/London' }));
