@@ -1,0 +1,86 @@
+    <!-- styles -->
+    <style type="text/css">
+      div.banner {
+          background-color: #EAD7A4;
+      }
+
+      ul {
+          list-style-type: none;
+          margin: 0;
+          padding: 0;
+          overflow: hidden;
+          background-color: #333;
+          position: fixed;
+          top: 0;
+          width: 100%;
+          font-family: Verdana, sans-serif;
+      }
+
+      div.container {
+          max-width: 100%
+          margin: 0 auto;
+          background: #f9f9f9;
+          font-size: 24px;
+          padding: 25px;
+          font-family: Verdana, sans-serif;
+      }
+
+      div.parallax {
+          background-image: url('E:\Adriana\Website\test_site\images\TESTBackground.jpg') no-repeat center;
+          background-size: cover;
+          background-attachement: fixed;
+          height: 500px;
+      }
+
+      li {
+          float: left;
+      }
+
+      li a {
+          display: block;
+          color: white;
+          text-align: center;
+          padding: 14px 16px;
+          text-decoration: none;
+      }
+
+      li a:hover {
+          background-color: #111;
+      }
+
+      div.box {
+          text-align: center;
+      }
+
+      img a {
+          width: 275px;
+          height: 413px;
+      }
+
+      table {
+          background-color: #FFF3D3;
+          width: 50%;
+      }
+
+      td {
+          padding: 18px;
+      }
+
+      div.container2 {
+          text-align: center;
+          font-family: Verdana, sans-serif;
+          width: 100%;
+      }
+
+      div.form-group {
+          padding: 12px 20px;
+          margin: 8px 0;
+          box-sizing: border-box;
+          font-family: Verdana, sans-serif;
+          opacity: 0.9;
+      }
+
+      footer {
+          font-size: 1em;
+      }
+    </style>
